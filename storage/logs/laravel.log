@@ -1,0 +1,291 @@
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 12:57:21] local.INFO: boot called at 2025-08-12 12:57:21  
+[2025-08-12 13:01:10] local.INFO: boot called at 2025-08-12 13:01:10  
+[2025-08-12 13:01:10] local.ERROR: Command "octane:restart" is not defined.
+
+Did you mean one of these?
+    octane:install
+    octane:reload
+    octane:start
+    octane:status
+    octane:stop
+    queue:restart {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"octane:restart\" is not defined.
+
+Did you mean one of these?
+    octane:install
+    octane:reload
+    octane:start
+    octane:status
+    octane:stop
+    queue:restart at /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php:737)
+[stacktrace]
+#0 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php(266): Symfony\\Component\\Console\\Application->find()
+#1 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#3 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:30] local.INFO: boot called at 2025-08-12 13:01:30  
+[2025-08-12 13:01:31] local.INFO: boot called at 2025-08-12 13:01:31  
+[2025-08-12 13:01:31] local.INFO: boot called at 2025-08-12 13:01:31  
+[2025-08-12 13:01:31] local.INFO: boot called at 2025-08-12 13:01:31  
+[2025-08-12 13:01:31] local.INFO: boot called at 2025-08-12 13:01:31  
+[2025-08-12 13:01:44] local.INFO: boot called at 2025-08-12 13:01:44  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:45] local.INFO: boot called at 2025-08-12 13:01:45  
+[2025-08-12 13:01:53] local.INFO: boot called at 2025-08-12 13:01:53  
+[2025-08-12 13:01:57] local.INFO: boot called at 2025-08-12 13:01:57  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:01:58] local.INFO: boot called at 2025-08-12 13:01:58  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:26] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:26  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:09:27] local.INFO: boot called at 2025-08-12 13:09:27  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2025-08-12 13:32:03] local.INFO: boot called at 2025-08-12 13:32:03  
+[2026-08-23 14:40:28] local.INFO: boot called at 2026-08-23 14:40:28  
+[2026-08-23 14:40:28] local.INFO: boot called at 2026-08-23 14:40:28  
+[2026-08-23 14:40:28] local.INFO: boot called at 2026-08-23 14:40:28  
+[2026-08-23 14:40:28] local.ERROR: The "--compact" option does not exist. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\RuntimeException(code: 0): The \"--compact\" option does not exist. at /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Input/ArgvInput.php:223)
+[stacktrace]
+#0 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Input/ArgvInput.php(152): Symfony\\Component\\Console\\Input\\ArgvInput->addLongOption()
+#1 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Input/ArgvInput.php(85): Symfony\\Component\\Console\\Input\\ArgvInput->parseLongOption()
+#2 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Input/ArgvInput.php(74): Symfony\\Component\\Console\\Input\\ArgvInput->parseToken()
+#3 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Input/Input.php(56): Symfony\\Component\\Console\\Input\\ArgvInput->parse()
+#4 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Command/Command.php(285): Symfony\\Component\\Console\\Input\\Input->bind()
+#5 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/laravel/framework/src/Illuminate/Console/Command.php(180): Symfony\\Component\\Console\\Command\\Command->run()
+#6 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php(1096): Illuminate\\Console\\Command->run()
+#7 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php(324): Symfony\\Component\\Console\\Application->doRunCommand()
+#8 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/symfony/console/Application.php(175): Symfony\\Component\\Console\\Application->doRun()
+#9 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/Kernel.php(201): Symfony\\Component\\Console\\Application->run()
+#10 /home/khanh-pham/Documents/KHANH_Project/english/backend/laravel/artisan(35): Illuminate\\Foundation\\Console\\Kernel->handle()
+#11 {main}
+"} 
+[2026-08-23 14:40:34] local.INFO: boot called at 2026-08-23 14:40:34  
